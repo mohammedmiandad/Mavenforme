@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+	<email>
+		<message>
+   <to>Alex@example.com</to>
+   <from>Brandy@example.com</from>
+   <subject>How are you ?</subject>
+   <body>Hi,Let's catch up sometime.</body>
+   <attachment></attachment>
+   </message>
+   </email>
